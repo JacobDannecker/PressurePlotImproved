@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+PyQt6==6.7.1
+pathlib
+logging
+pyserial
+datetime
+scipy
