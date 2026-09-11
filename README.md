@@ -30,6 +30,7 @@ Ubuntu getestet
 - Demomodus zum Debugging ohne angeschlossene Messgeräte
 - Konfiguration der Anwendung über eine Konfigurationsdatei
 - Parallele Darstellung und Erfassung der Drücke
+- Multithreading
   
 ## Setup Fenster
 <img width="540" height="923" alt="pic_setup" src="https://github.com/user-attachments/assets/e295a8f0-8cfe-414c-8132-f55e916209ae" />
